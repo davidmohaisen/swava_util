@@ -1,0 +1,6 @@
+pandasecurity:panda
+elasticsearch:elastic
+opensuse:opensuseproject
+puppet:puppetlabs
+opensuse:suse
+phpbb:phpbbgroup

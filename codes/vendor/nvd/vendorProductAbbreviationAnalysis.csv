@@ -1,0 +1,38 @@
+mozilla {'nss': ['network_security_services']}
+sun {'jre': ['java_runtime_environment']}
+cisco {'crs': ['customer_response_solution', 'carrier_routing_system'], 'asa': ['adaptive_security_appliance'], 'ucs': ['unified_computing_system']}
+intel {'ipmi': ['intelligent_platform_management_interface']}
+audiocoding {'faad2': ['freeware_advanced_audio_decoder_2']}
+sap {'basis': ['business_application_software_integrated_solution'], 'ui': ['ui_infra']}
+mcafee {'cma': ['common_management_agent']}
+otrs {'otrs': ['open_ticket_request_system']}
+asustor {'adm': ['asustor_data_master']}
+paypal {'ipn': ['instant_payment_notification']}
+silc {'silc': ['secure_internet_live_conferencing']}
+iomega {'nas': ['network_attached_storage']}
+terramaster {'tos': ['terramaster_operating_system']}
+mattblaze {'cfs': ['cryptographic_file_system']}
+massiveentertainment {'wic': ['world_in_conflict']}
+displaysuiteproject {'ds': ['display_suite']}
+ana {'ana': ['all_nippon_airways']}
+myupb {'upb': ['ultimate_php_board']}
+rsbac {'rsbac': ['rule_set_based_access_control']}
+lbstone {'apb': ['active_php_bookmarks']}
+windows {'adam': ['active_directory_application_mode'], 'iis': ['internet_information_server', 'internet_information_services'], 'ie': ['internet_explorer']}
+google {'wt': ['web_toolkit']}
+x {'xdm': ['x_display_manager', 'x_display_manager', 'x_display_manager']}
+chetcpasswd {'sarg': ['squid_analysis_report_generator']}
+wink {'vcl': ['virtual_computing_lab']}
+lms {'lms': ['lan_management_system']}
+alienvault {'ossim': ['open_source_security_information_management']}
+bestpractical {'rt': ['request_tracker', 'request_tracker']}
+gnome {'gdm': ['gnome_display_manager'], 'eog': ['eye_of_gnome']}
+npm {'npm': ['node_packaged_modules', 'node_packaged_modules']}
+ubuntu {'maas': ['metal_as_a_service']}
+aiocp {'aiocp': ['all_in_one_control_panel']}
+horde {'imp': ['internet_mail_program'], 'apt': ['advanced_package_tool']}
+offl {'offl': ['online_fantasy_football_league']}
+misp {'misp': ['malware_information_sharing_platform', 'malware_information_sharing_platform', 'malware_information_sharing_platform', 'malware_information_sharing_platform', 'malware_information_sharing_platform', 'malware_information_sharing_platform']}
+simplemachines {'smf': ['simple_machines_forum']}
+mispproject {'misp': ['malware_information_sharing_platform']}
+helpcenterlive {'hcl': ['help_center_live']}

@@ -1,0 +1,44 @@
+Authors - product
+	centreon:merethis -- Merethis assumed the Centreon brandname
+	ichitaro:justsystem -- Justsystem produced ichitaro
+	fastjar:matthiasklose -- matthiasklose wrote fastjar
+	trac:edgewall -- trac powered by edgewall
+	badblue:workingresourcesinc -- badblue is copyrighted by workingresourcesinc
+	bearshare:freepeers -- bearshare created by Free Peers Inc
+	blackmoonftpserver:selomofori -- Selomo is the author
+	centericq:konst -- konst is the author
+	chmlib:jedwing -- jewding is the parent repo
+	EXCEPTION: zeuscart:ajsquare -- zeuscart is supported by ajsquare. Therefore, it should not be listed as a product under ajsquare.
+	systrace:provos and systrace:nielsprovos -- FirstLastName LastName
+	ssmtp:anibalmonsalvesalaz -- anibalmonsalvesalaz is a maintainer (https://github.com/badoo/ssmtp/commits/master)
+	snort:martinroesch -- Martin is the lead developer
+	snort:sourcefire -- Sourcefire Inc is the company that developed the snort
+	rapidstream:watchguard -- watchguard technologies bought rapidstream
+	silentrunner:raytheon -- Raytheon invested in SilentRunner(r) Inc. SO, removed from the list
+	quickheal:cat -- quickheal was formerly known as CAT Computer Services (P) Ltd
+	pycrypto:dlitz -- dlitz is the parent repo and pycrypto is the sub-repo
+	nginx:igorsysoev -- igorsysoev was original author of nginx but the software is now maintained by nginx.inc.
+	nessus:tenable -- nessus is vulnerability scanner of tenable security.  nessus is listed as a product of tenable as well. So, an inconsistency.
+	icq:mirabilis -- ICQ was originally developed by mirabilis
+	ichitaro:justsystems -- Justsystems developed ichitaro
+	icecast:xiph -- xiph.org deeloped icecast
+	bearshare:freepeers -- freepeers (developer)
+	exif:curtisgalloway -- originally written by curtis (removed)
+	ntteast:nttwest -- both are part of NTT
+	gxine:xine -- gxine is xine for gnu. (removed)
+	gnu:gnutls -- 
+
+Check These
+	libsoup:gnome -- libsoup is alisted as a product in gnome as well
+	libgsf:gnome
+	apt:debian
+	kmplayer:kde
+	kmail:kde
+	ubuntu:canonical
+	gnome:xchat
+	grpc:google -- google initially developed grpc
+
+Acquired:
+	icq:aol ICQ aquired by AOL
+	symantecveritas:veritas
+	symantec:symantecveritas
